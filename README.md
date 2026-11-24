@@ -1,4 +1,4 @@
-[readme (4).md](https://github.com/user-attachments/files/35330574/readme.4.md)
+
 # 🚀 EXPERIMENT 01 — INSTALLATION AND CONFIGURATION OF ORACLE VIRTUALBOX AND UBUNTU LINUX
 
 <p align="center">
